@@ -1,24 +1,24 @@
 # java_practice_question
  ##  Project 1: Student Record Management System 
 
-Allows adding and displaying student records.
+1. Allows adding and displaying student records.
 
-Stores details like Roll No, Name, Course, Marks, and Grade.
+2. Stores details like Roll No, Name, Course, Marks, and Grade.
 
-Calculates grade based on marks.
+3. Calculates grade based on marks.
 
-Uses ArrayList to store multiple students.
+4. Uses ArrayList to store multiple students.
 
-Menu-driven program for easy interaction.
+5. Menu-driven program for easy interaction.
 
  ## Project 2: Banking Application
 
-Allows creating a new bank account.
+1. Allows creating a new bank account.
 
-Deposit and withdraw money with balance checks.
+2. Deposit and withdraw money with balance checks.
 
-View account details and update contact info.
+3. View account details and update contact info.
 
-Uses array to manage multiple accounts.
+4. Uses array to manage multiple accounts.
 
-Simple menu with options for different operations.
+5. Simple menu with options for different operations.
